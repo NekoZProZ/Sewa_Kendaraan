@@ -35,7 +35,7 @@ class Database extends Config
 		'hostname' => 'localhost',
 		'username' => 'root',
 		'password' => '',
-		'database' => 'lelang',
+		'database' => 'sewa_kendaraan',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
